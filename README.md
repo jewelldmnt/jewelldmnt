@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Web Development and AI/Machine Learning**
 
-- 📫 How to reach me **jewelldmnt@gmail.com**
+- 📫 You can reach me at **jewelldmnt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
