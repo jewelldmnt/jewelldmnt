@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm JA</h1>
+<h1 align="left">Hi 👋, I'm Ja</h1>
 
 - 🌱 I’m currently learning **Web Development and AI/Machine Learning**
 
