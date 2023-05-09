@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm JA</h1>
-<h3 align="center">Aspiring Software Developer | Computer Science Student at the Polytechnic University of the Philippines</h3>
+<h1 align="left">Hi 👋, I'm JA</h1>
 
 - 🌱 I’m currently learning **Web Development and AI/Machine Learning**
 
