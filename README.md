@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jewell Anne but you can call me Ja</h1>
+<h1 align="left">Hi 👋, I'm Jewell Anne. You can call me Ja</h1>
 
 - 🌱 I’m currently learning **Web Development and AI/Machine Learning**
 
