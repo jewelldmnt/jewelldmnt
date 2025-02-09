@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Full Stack Software Developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **Web Development and AI/Machine Learning**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://jewellannediamante.vercel.app/)  
+- 👨‍💻 All of my projects are available at [Jewell Anne Diamante | Full Stack Software Developer](https://jewellannediamante.vercel.app/)  
 - 📫 You can reach me at **jewelldmnt@gmail.com**  
 
 ---
@@ -12,7 +12,6 @@
   <a href="https://linkedin.com/in/jewell-anne-diamante/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://fb.com/jewelldmnt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/jewelldmnt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://discord.gg/jaa#3573" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---
