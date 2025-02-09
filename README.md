@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋, I'm Jewell Anne, but you can just call me Ja!</h1>
-<h3 align="center">A passionate Full Stack Software Developer from the Philippines</h3>
+<h3 align="left">A passionate Full Stack Software Developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **Web Development and AI/Machine Learning**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://jewellannediamante.vercel.app/)  
