@@ -1,5 +1,3 @@
-edit the techstack instead of icon use the name with boxes
-
 <h1 align="left">Hi there👋, I'm Jewell Anne, but you can just call me Ja!</h1>
 <h3 align="left">A passionate Full Stack Software Developer from the Philippines</h3>
 
